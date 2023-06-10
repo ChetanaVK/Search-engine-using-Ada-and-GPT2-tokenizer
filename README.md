@@ -1,8 +1,7 @@
-# Search-engine-using-Ada-and-GPT2-tokenizer
-Search engine using Ada and GPT2 tokenizer
+# Question-Answering-using-Ada-and-GPT3
 
 Individual Contributer: Chetana Kulkarni
 Email: chetanak@uoregon.edu
 
-Project Title: Search engine using OpenAI
+Project Title: Question-Answering using OpenAI
 
